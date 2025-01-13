@@ -1,8 +1,8 @@
-A package for BEAST2 implementing SNAPP
+A package for BEAST implementing SNAPP
 
-Documentation: http://www.beast2.org/snapp/
+Documentation: http://www.beast.org/snapp/
 
 To compile from source, 
-1. check out BEAST from https://github.com/CompEvol/beast2
-2. check out SNAPP from https://github.com/BEAST2-Dev/SNAPP in the same same directory (so that beast2/../SNAPP/../beast2/ == beast2/)
+1. check out BEAST from https://github.com/CompEvol/beast
+2. check out SNAPP from https://github.com/BEAST-Dev/SNAPP in the same same directory (so that beast/../SNAPP/../beast/ == beast/)
 3. run ant from the snap directory containing this file.
